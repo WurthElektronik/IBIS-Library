@@ -7,8 +7,7 @@ The libraries are maintained by Würth Elektronik EDA Team, for any questions an
 ## Library Component Coverage
 
 * Digital Isolators <br>
-* WPME-CDIS
-_180120154X1X, 18012115411X, 18012115421X, 18014015401X, 18014115401X, 18014215401X_
+WPME-CDIS: 180120154X1X, 18012115411X, 18012115421X, 18014015401X, 18014115401X, 18014215401X_
 
 ## More Library Repositories Provided By Würth Elektronik
 **PCB Library**: [Altium](https://github.com/WurthElektronik/Altium-Library) [Cadence](https://github.com/WurthElektronik/Cadence-Library), [Eagle](https://github.com/WurthElektronik/Eagle-Library), [KiCad](https://github.com/WurthElektronik/KiCad-Library)    <br>
